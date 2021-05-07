@@ -40,7 +40,7 @@ A condição necessaria é que a matriz seja n x n, ou seja, quadrada.
 ```
 3
 ```
-Então inserindo dados referente a proporção, é possivel escanear a matriz, não esquecendo de colocar o "=" na última coluna.
+Então inserindo dados referente a proporção, é possivel escanear a matriz, não esquecendo de colocar a última coluna referente a equação.
 
 ```
 1 0 3 -2
@@ -49,9 +49,9 @@ Então inserindo dados referente a proporção, é possivel escanear a matriz, n
 ```
 isso é mesmo que
 ```
-1 0 3 -2
-2 5 -1 1
-4 -5 3 7
+1a 0b 3c = -2
+2a 5b -1c = 1
+4a -5b 3c = 7
 ```
 
 
