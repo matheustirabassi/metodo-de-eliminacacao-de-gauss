@@ -47,11 +47,14 @@ Então inserindo dados referente a proporção, é possivel escanear a matriz, n
 2 5 -1 1
 4 -5 3 7
 ```
-isso é mesmo que
+isso é o mesmo que
 ```
 1a 0b 3c = -2
 2a 5b -1c = 1
 4a -5b 3c = 7
 ```
 
+no final chegamos em
+
+![image](https://user-images.githubusercontent.com/64479165/117493106-e63a0400-af48-11eb-9951-82adcfd1ea14.png)
 
