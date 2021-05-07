@@ -19,8 +19,8 @@ Tabela de conteúdos
 <h4 align="center"> 🚧 Eliminação de Gauss🚀 Em construção...  🚧</h4>
 
 ## Sobre
-------
-O projeto surgiu da necessidade de calcular variáveis em álgebra linear.
+
+O projeto surgiu da necessidade de calcular equações lineares.
 
 ## Demonstração da aplicação
---------------------------
+
