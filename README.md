@@ -16,6 +16,6 @@ Tabela de conteúdos
    * [Tests](#testes)
 <!--te-->
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧 Eliminação de Gauss🚀 Em construção...  🚧
 </h4>
-#Sobre
+
