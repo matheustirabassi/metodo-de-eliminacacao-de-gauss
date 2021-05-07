@@ -33,7 +33,7 @@ O projeto surgiu da necessidade de calcular equações lineares.
 ## Demonstração da aplicação
 Ao compilarmos e executarmos recebemos a seguinte mensagem:
 
-``Bem vindo ao método de eliminação de Gauss
-qual é a proporção da matriz?``
+´´Bem vindo ao método de eliminação de Gauss
+qual é a proporção da matriz?´´
 A condição necessaria é que a matriz seja n x n, ou seja, quadrada.
 
