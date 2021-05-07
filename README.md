@@ -21,7 +21,7 @@ Tabela de conteúdos
 ===================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Demonstração da aplicação](#demonstracao)
+   * [Demonstração da aplicação](#demonstração-da-aplicação)
 <!--te-->
 
 <h4 align="center"> 🚧 Eliminação de Gauss🚀 Em construção...  🚧</h4>
@@ -30,7 +30,7 @@ Tabela de conteúdos
 
 O projeto surgiu da necessidade de calcular equações lineares.
 
-# Demonstração da aplicação(##demonstracao)
+## Demonstração da aplicação
 Ao compilarmos e executarmos recebemos a seguinte mensagem:
 ```
 Bem vindo ao método de eliminação de Gauss
