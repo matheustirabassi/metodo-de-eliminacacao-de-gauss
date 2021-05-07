@@ -33,6 +33,7 @@ Tabela de conteúdos
 O projeto surgiu da necessidade de calcular equações lineares.
 
 ## Como usar
+![image](https://user-images.githubusercontent.com/64479165/117491149-3499d380-af46-11eb-9b4a-2bbdd6b76d98.png)
 
 ## Demonstração da aplicação
 
