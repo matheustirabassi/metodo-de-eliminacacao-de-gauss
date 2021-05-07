@@ -8,7 +8,7 @@
 <h1 align="center">
     <a href="https://www.codeblocks.org/"> Code Blocks</a>
 </h1>
-![image](https://user-images.githubusercontent.com/64479165/117487909-14681580-af42-11eb-801f-a09c440439fd.png)
+
 <p align="center"> IDE utilizada</p>
   
 Tabela de conteúdos
