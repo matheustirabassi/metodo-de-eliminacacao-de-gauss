@@ -10,6 +10,7 @@ float **eliminacaoDeGauss(float **A, int lin);
 float **eliminacaoDeGauss(float **A, int lin) {
     float **a = A;
     int n = lin;
+
     if(a[lin - 1][lin - 1] == 0.0) {
         exit (-1);
     }
@@ -18,13 +19,11 @@ float **eliminacaoDeGauss(float **A, int lin) {
     for(int i = 0; i < n; i++) {
         for(int j = i + 1; j < n ; j++) {
             m = a[j][i]/a[i][i];
-            a[j][i] = a[j][i]-(a[j][i]/a[i][i])*a[i][i];
+            a[j][i] = 0;
             for(int k = i + 1; k < n; k++) {
                 a[j][k] +=  -(m * a[i][k]);
             }
-
-             a[j][n] += -(m * a[i][n]);
-
+            a[j][n] += -(m * a[i][n]);
         }
     }
 
@@ -48,12 +47,15 @@ void resolucaoMatrizSuperior(float **A, int lin) {
         //cout << "lin 47: " << x[i] << " = (" << a[i][n] << "-" << s << ")/" << a[i][i] << endl;
         x[i] = (a[i][n] -s)/a[i][i];
     }
+
+
     cout << "---resultado---" << endl;
     for(int i = 0; i < n ; i++) {
 
-        cout <<(char)(i + 'a') << " = " << x[i] << " ";
+        cout <<(char)(i + 'a') << " = " << x[i] << endl;
     }
     cout << endl;
+
 }
 
 void imprimirMatriz(float **a, int lin) {
@@ -82,18 +84,22 @@ float** scanearMatriz(int lin) {
 }
 int main() {
     setlocale(LC_CTYPE, "");
+
     cout << "Bem vindo ao método de eliminação de Gauss" << endl;
     cout << "qual é a proporção da matriz? ";
-    int lin;
-    cin >> lin;
-    int n = lin;
+
+    int n;
+    cin >> n;
     cout << "sua matriz é " << n << "x" << n << "!" << endl;
+
     cout << "----equação inicial---" << endl;
     float **a = scanearMatriz(n);
     float **result = eliminacaoDeGauss(a, n);
+
     cout << "---equação final---" << endl;
     imprimirMatriz(result, n);
     cout << endl;
+
     resolucaoMatrizSuperior(result, n);
 
     return 0;
