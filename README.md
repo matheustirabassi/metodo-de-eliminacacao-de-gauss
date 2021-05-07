@@ -15,5 +15,7 @@ Tabela de conteúdos
       * [Pre Requisitos](#pre-requisitos)
    * [Tests](#testes)
 <!--te-->
-
-*Sobre
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+#Sobre
