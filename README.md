@@ -54,7 +54,6 @@ isso é o mesmo que
 4a -5b 3c = 7
 ```
 
-no final chegamos em
-
+no final temos o resultado
 ![image](https://user-images.githubusercontent.com/64479165/117493106-e63a0400-af48-11eb-9951-82adcfd1ea14.png)
 
