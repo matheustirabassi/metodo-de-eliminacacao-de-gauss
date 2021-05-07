@@ -17,4 +17,4 @@ Tabela de conteúdos
 <!--te-->
 <h4 align="center"> 🚧 Eliminação de Gauss🚀 Em construção...  🚧</h4>
 
-## Sobre
+# Sobre
