@@ -1,4 +1,4 @@
-# Sobre
+
 <h1 align="center">Método de eliminação de Gauss</h1>
 
 <p align="center">Projeto implementado em linguagem C/C++ com resolução para matrizes triangulares superiores.</p>
@@ -14,9 +14,11 @@ Tabela de conteúdos
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-   * [Tests](#testes)
+   * [Demonstração da aplicação](#demonstracao)
 <!--te-->
 
 <h4 align="center"> 🚧 Eliminação de Gauss🚀 Em construção...  🚧</h4>
 
+# Sobre
+# Demonstração da aplicação
 
