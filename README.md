@@ -20,7 +20,7 @@ Tabela de conteúdos
 <h4 align="center"> 🚧 Eliminação de Gauss🚀 Em construção...  🚧</h4>
 
 ## Sobre
-<p align="center">Projeto implementado em linguagem C/C++ com resolução para matrizes triangulares superiores.</p>
+<p align="left">Projeto implementado em linguagem C/C++ com resolução para matrizes triangulares superiores.</p>
 
 ## Demonstração da aplicação
 
