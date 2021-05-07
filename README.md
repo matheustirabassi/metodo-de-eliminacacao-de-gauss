@@ -15,8 +15,6 @@ Tabela de conteúdos
       * [Pre Requisitos](#pre-requisitos)
    * [Tests](#testes)
 <!--te-->
-<h4 align="center"> 
-	🚧 Eliminação de Gauss🚀 Em construção...  🚧
-</h4>
+<h4 align="center"> 🚧 Eliminação de Gauss🚀 Em construção...  🚧</h4>
 
 ## Sobre
