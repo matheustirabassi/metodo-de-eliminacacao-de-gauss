@@ -87,10 +87,11 @@ int main() {
     int lin;
     cin >> lin;
     int n = lin;
-    cout << "---matriz inicial---" << endl;
+    cout << "sua matriz é " << n << "x" << n << "!" << endl;
+    cout << "----equação inicial---" << endl;
     float **a = scanearMatriz(n);
     float **result = eliminacaoDeGauss(a, n);
-    cout << "---matriz final---" << endl;
+    cout << "---equação final---" << endl;
     imprimirMatriz(result, n);
     cout << endl;
     resolucaoMatrizSuperior(result, n);
