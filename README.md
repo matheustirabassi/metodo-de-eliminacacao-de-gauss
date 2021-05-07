@@ -37,4 +37,12 @@ Bem vindo ao método de eliminação de Gauss
 qual é a proporção da matriz?
 ```
 A condição necessaria é que a matriz seja n x n, ou seja, quadrada.
+Então inserindo dados referente a proporção, é possivel escanear a matriz, não esquecendo de colocar o "=" na última coluna.
+```
+3
+1 0 3 -2
+2 5 -1 1
+4 -5 3 7
+```
+
 
