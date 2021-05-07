@@ -21,5 +21,6 @@ Tabela de conteúdos
 
 ## Sobre
 <p align="center">Projeto implementado em linguagem C/C++ com resolução para matrizes triangulares superiores.</p>
+
 ## Demonstração da aplicação
 
