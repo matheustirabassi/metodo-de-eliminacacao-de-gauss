@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620400209 source:c:\users\mathesiud1\documents\c-projects\metodo-de-eliminacacao-de-gauss\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale>
+
